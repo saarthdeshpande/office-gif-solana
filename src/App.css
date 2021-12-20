@@ -137,6 +137,7 @@
   font-size: 14px;
   font-weight: bold;
   transform: translateY(-30%);
+  overflow-wrap: break-word;
 }
 
 .vote-btn {
